@@ -123,6 +123,7 @@ A curated list of awesome frameworks, libraries and software. Inspired by [aweso
     * [open-replicator](https://github.com/whitesock/open-replicator) -  Open Replicator is a high performance MySQL binlog parser written in Java
     * [mypipe](https://github.com/mardambey/mypipe) - MySQL binary log consumer with the ability to act on changed rows and publish changes to different systems with emphasis on Apache Kafka. 
     * [mydit](https://github.com/ngocdaothanh/mydit) - MySQL to MongoDB data replicator 
+    * [python-mysql-replication](https://github.com/noplay/python-mysql-replication) - Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL
 
 * PostgreSQL
     * [pylogicaldecoding](https://github.com/lisael/pylogicaldecoding) - Python interface to PostgreSQL logical decoding 
