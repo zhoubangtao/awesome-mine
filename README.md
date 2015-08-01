@@ -133,6 +133,12 @@ A curated list of awesome frameworks, libraries and software. Inspired by [aweso
     * [pylogicaldecoding](https://github.com/lisael/pylogicaldecoding) - Python interface to PostgreSQL logical decoding 
     * [bottledwater-pg](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka 
     
+## Usefull Awesomes
+
+*some usefull awesome list*
+
+* [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness. 
+    
 ## Something Interesting
 
 *something interesting.*
