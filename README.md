@@ -110,6 +110,7 @@ A curated list of awesome frameworks, libraries and software. Inspired by [aweso
 * [amix-vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc 
 * [ruchee-vimrc](https://github.com/ruchee/vimrc) - Ruchee's Vim Config Files 
 * [vgod-vimrc](https://github.com/vgod/vimrc) - vgod's vimrc 
+* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.
 
 ## 
 
@@ -117,7 +118,19 @@ A curated list of awesome frameworks, libraries and software. Inspired by [aweso
 
 *Database tools, like replication, binlog, CDC and so on.*
 
-* [mysql-binlog-connector-java](https://github.com/shyiko/mysql-binlog-connector-java) - MySQL Binary Log connector
-* [open-replicator](https://github.com/whitesock/open-replicator) -  Open Replicator is a high performance MySQL binlog parser written in Java
-* [mypipe](https://github.com/mardambey/mypipe) - MySQL binary log consumer with the ability to act on changed rows and publish changes to different systems with emphasis on Apache Kafka. 
-* [mydit](https://github.com/ngocdaothanh/mydit) - MySQL to MongoDB data replicator 
+* MySQL
+    * [mysql-binlog-connector-java](https://github.com/shyiko/mysql-binlog-connector-java) - MySQL Binary Log connector
+    * [open-replicator](https://github.com/whitesock/open-replicator) -  Open Replicator is a high performance MySQL binlog parser written in Java
+    * [mypipe](https://github.com/mardambey/mypipe) - MySQL binary log consumer with the ability to act on changed rows and publish changes to different systems with emphasis on Apache Kafka. 
+    * [mydit](https://github.com/ngocdaothanh/mydit) - MySQL to MongoDB data replicator 
+
+* PostgreSQL
+    * [pylogicaldecoding](https://github.com/lisael/pylogicaldecoding) - Python interface to PostgreSQL logical decoding 
+    * [bottledwater-pg](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka 
+    
+## Something Interesting
+
+*something interesting.*
+
+* [showterm](http://showterm.io/) - Termshows are purely text based. This makes them ideal for demoing instructions (as the user can copy-paste), making fail-safe "live-coding" sessions (plain text is very scalable), and sharing all your l33t terminal hacks.
+* [asciinema](https://asciinema.org/) - ascii camera
