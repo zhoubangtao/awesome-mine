@@ -103,15 +103,15 @@ A curated list of awesome frameworks, libraries and software. Inspired by [aweso
 * [Vex](https://github.com/sashahart/vex) - Run a command in the named virtualenv.
 * [PyRun](https://www.egenix.com/products/python/PyRun/) - A one-file, no-installation-needed version of Python.
 
-## Package Management
+## Mac OSX
 
-*Libraries for package and dependency management.*
+*Libraries or Tools for Mac OSX.*
 
-* [pip](https://pip.pypa.io/) - The Python package and dependency manager.
-    * [Python Package Index](https://pypi.python.org/pypi)
-* [conda](https://github.com/conda/conda/) - Cross-platform, Python-agnostic binary package manager.
-* [Curdling](http://clarete.li/curdling/) - Curdling is a command line tool for managing Python packages.
-* [wheel](http://pythonwheels.com/) - The new standard of Python distribution and are intended to replace eggs.
+* [amix-vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc 
+* [ruchee-vimrc](https://github.com/ruchee/vimrc) - Ruchee's Vim Config Files 
+* [vgod-vimrc](https://github.com/vgod/vimrc) - vgod's vimrc 
+
+## 
 
 ## Database Tools
 
