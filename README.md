@@ -112,7 +112,11 @@ A curated list of awesome frameworks, libraries and software. Inspired by [aweso
 * [vgod-vimrc](https://github.com/vgod/vimrc) - vgod's vimrc 
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.
 
-## 
+## Big Data
+
+*Framework, tools and libraries for Big Data.*
+
+* [Spotify Luigi](https://github.com/spotify/luigi) - a Python package for building complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
 
 ## Database Tools
 
