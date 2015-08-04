@@ -117,6 +117,11 @@ A curated list of awesome frameworks, libraries and software usually used by mys
 * [zsh](http://zsh.sourceforge.net/Guide/zshguide.html) - a zsh guide
 
 
+## Penetration Testing
+
+
+* [metasploit-framework](https://github.com/rapid7/metasploit-framework/) - World's most used penetration testing software
+
 
 ## Big Data
 
