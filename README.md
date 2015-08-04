@@ -114,6 +114,9 @@ A curated list of awesome frameworks, libraries and software usually used by mys
 * [tmux](https://tmux.github.io/) - tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen. tmux may be detached from a screen and continue running in the background, then later reattached.
 * [tmux-powerline](https://github.com/erikw/tmux-powerline) - Statusbar configuration for tmux that looks like vim-powerline and consist of dynamic segments.
 * [screen](http://www.gnu.org/software/screen/) - Screen is a full-screen window manager that multiplexes a physical terminal between several processes, typically interactive shells.
+* [zsh](http://zsh.sourceforge.net/Guide/zshguide.html) - a zsh guide
+
+
 
 ## Big Data
 
