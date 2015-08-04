@@ -1,6 +1,6 @@
 # Awesome Mine
 
-A curated list of awesome frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
+A curated list of awesome frameworks, libraries and software usually used by myself. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Awesome Mine](#awesome-mine)
     - [Environment Management](#environment-management)
