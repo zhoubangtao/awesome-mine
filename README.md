@@ -111,6 +111,9 @@ A curated list of awesome frameworks, libraries and software. Inspired by [aweso
 * [ruchee-vimrc](https://github.com/ruchee/vimrc) - Ruchee's Vim Config Files 
 * [vgod-vimrc](https://github.com/vgod/vimrc) - vgod's vimrc 
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration.
+* [tmux](https://tmux.github.io/) - tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen. tmux may be detached from a screen and continue running in the background, then later reattached.
+* [tmux-powerline](https://github.com/erikw/tmux-powerline) - Statusbar configuration for tmux that looks like vim-powerline and consist of dynamic segments.
+* [screen](http://www.gnu.org/software/screen/) - Screen is a full-screen window manager that multiplexes a physical terminal between several processes, typically interactive shells.
 
 ## Big Data
 
