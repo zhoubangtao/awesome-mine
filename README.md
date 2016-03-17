@@ -156,3 +156,8 @@ A curated list of awesome frameworks, libraries and software usually used by mys
 
 * [showterm](http://showterm.io/) - Termshows are purely text based. This makes them ideal for demoing instructions (as the user can copy-paste), making fail-safe "live-coding" sessions (plain text is very scalable), and sharing all your l33t terminal hacks.
 * [asciinema](https://asciinema.org/) - ascii camera
+
+*Continuous Integration and Automation Test*
+
+* [macaca](https://github.com/macacajs/macaca) - Automation Test with ease
+* [reliable](https://github.com/reliablejs/reliable) - Distributed reliable continuous integration service
