@@ -103,6 +103,12 @@ A curated list of awesome frameworks, libraries and software usually used by mys
 * [Vex](https://github.com/sashahart/vex) - Run a command in the named virtualenv.
 * [PyRun](https://www.egenix.com/products/python/PyRun/) - A one-file, no-installation-needed version of Python.
 
+## Operation System
+
+*Libraries or Tools for Operation System.*
+
+* [Netdata](https://github.com/firehol/netdata) - Real-time performance monitoring, done right! http://netdata.firehol.org
+
 ## Mac OSX
 
 *Libraries or Tools for Mac OSX.*
@@ -128,6 +134,7 @@ A curated list of awesome frameworks, libraries and software usually used by mys
 *Framework, tools and libraries for Big Data.*
 
 * [Spotify Luigi](https://github.com/spotify/luigi) - a Python package for building complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
+* [Caravel](https://github.com/airbnb/caravel) - Caravel is a data exploration platform designed to be visual, intuitive, and interactive
 
 ## Database Tools
 
