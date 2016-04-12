@@ -146,6 +146,9 @@ A curated list of awesome frameworks, libraries and software usually used by mys
     * [mypipe](https://github.com/mardambey/mypipe) - MySQL binary log consumer with the ability to act on changed rows and publish changes to different systems with emphasis on Apache Kafka. 
     * [mydit](https://github.com/ngocdaothanh/mydit) - MySQL to MongoDB data replicator 
     * [python-mysql-replication](https://github.com/noplay/python-mysql-replication) - Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL
+    * [swanhart-tools](https://github.com/greenlion/swanhart-tools) - Swanhart Toolkit - MySQL tools for MPP query, Materialized Views, Async queries, and JSON UDF
+    * [jbinlog](https://github.com/zhoubangtao/jbinlog) - Java mysql binlog parser http://blog.fulin.org/
+    * [tungsten-replicator](https://github.com/vmware/tungsten-replicator) - Tungsten Replicator is an open source replication engine supporting a variety of different extractor and applier modules. Data can be extracted from MySQL, Oracle and Amazon RDS, and applied to transactional stores, including MySQL, Oracle, and Amazon RDS; NoSQL stores such as MongoDB, and datawarehouse stores such as Vertica, Hadoop, and Amazon rDS.
 
 * PostgreSQL
     * [pylogicaldecoding](https://github.com/lisael/pylogicaldecoding) - Python interface to PostgreSQL logical decoding 
