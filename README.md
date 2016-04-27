@@ -135,6 +135,7 @@ A curated list of awesome frameworks, libraries and software usually used by mys
 
 * [Spotify Luigi](https://github.com/spotify/luigi) - a Python package for building complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
 * [Caravel](https://github.com/airbnb/caravel) - Caravel is a data exploration platform designed to be visual, intuitive, and interactive
+* [Debezium](http://debezium.io/) - Debezium is an open source distributed platform for change data capture. Start it up, point it at your databases, and your apps can start responding to all of the inserts, updates, and deletes that other apps commit to your databases. Debezium is durable and fast, so your apps can respond quickly and never miss an event, even when things go wrong.
 
 ## Database Tools
 
@@ -149,6 +150,7 @@ A curated list of awesome frameworks, libraries and software usually used by mys
     * [swanhart-tools](https://github.com/greenlion/swanhart-tools) - Swanhart Toolkit - MySQL tools for MPP query, Materialized Views, Async queries, and JSON UDF
     * [jbinlog](https://github.com/zhoubangtao/jbinlog) - Java mysql binlog parser http://blog.fulin.org/
     * [tungsten-replicator](https://github.com/vmware/tungsten-replicator) - Tungsten Replicator is an open source replication engine supporting a variety of different extractor and applier modules. Data can be extracted from MySQL, Oracle and Amazon RDS, and applied to transactional stores, including MySQL, Oracle, and Amazon RDS; NoSQL stores such as MongoDB, and datawarehouse stores such as Vertica, Hadoop, and Amazon rDS.
+    * [tungsten-queue-applier](https://github.com/tailorcai/tungsten-queue-applier) - a tungsten applier implementation which write database event into a external message queue.
 
 * PostgreSQL
     * [pylogicaldecoding](https://github.com/lisael/pylogicaldecoding) - Python interface to PostgreSQL logical decoding 
